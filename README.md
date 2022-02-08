@@ -36,6 +36,7 @@
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._Xj3pFUOCJIUECe_SqqW4AHaEH%26pid%3DApi&f=1" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.guJkOkEXjWDwsnAudu4hzAHaHa%26pid%3DApi&f=1" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
